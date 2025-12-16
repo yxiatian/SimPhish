@@ -17,7 +17,6 @@
 - [API 文档](#api-文档)
 - [数据管理](#数据管理)
 - [重要声明与免责](#重要声明与免责)
-- [贡献](#贡献)
 - [联系方式](#联系方式)
 
 ---
@@ -555,21 +554,12 @@ tar -xzf data-backup-20250101.tar.gz
 
 ---
 
-## 贡献
-
-欢迎提交问题报告和改进建议。但在提交代码前，请确保：
-
-1. 代码符合项目规范
-2. 已通过所有测试
-3. 已更新相关文档
-
----
-
 ## 联系方式
 
 - **作者**：xiatian
 - **项目**：SimPhish - Enterprise Security Awareness Tool
 <img src="https://github.com/user-attachments/assets/255cebc2-f35d-4fdf-ae62-e3b080b0bfa7" width="350" alt="微信二维码">
+
 ---
 
 ## 更新日志
