@@ -43,17 +43,24 @@ SimPhish 是一个专为企业内部安全意识培训设计的钓鱼邮件模�
 - **附件支持**：可添加邮件附件（最多 10 个，单个最大 10MB）
 - **SMTP 配置**：支持多种加密方式（SSL/TLS、STARTTLS）
 - **发送控制**：支持并发控制和速率限制
+<img width="1545" height="892" alt="image" src="https://github.com/user-attachments/assets/22d4c61f-b22e-4167-b1ee-12b67c7565de" />
+
 
 ### 钓鱼页面
 - **页面编辑**：支持自定义 HTML 内容或从 URL 导入
 - **变量支持**：页面内容支持变量替换
 - **服务器配置**：可配置独立的钓鱼服务器地址和端口
 - **重定向**：支持提交后重定向到指定 URL
+<img width="1545" height="893" alt="image" src="https://github.com/user-attachments/assets/00098e51-da8a-4ab2-af9b-3da87ad8e7ed" />
+<img width="1547" height="891" alt="image" src="https://github.com/user-attachments/assets/e269f49d-7822-439b-b7b8-196fefc4fe05" />
+
 
 ### 目标管理
 - **批量导入**：支持 CSV 文件批量导入目标
 - **自定义变量**：为每个目标设置自定义变量
 - **追踪 ID**：自动为每个目标生成唯一追踪 ID
+<img width="1546" height="893" alt="image" src="https://github.com/user-attachments/assets/1942b84a-ed73-4f82-a7f8-07e9b8f5da4e" />
+
 
 ### 活动管理
 - **活动创建**：创建钓鱼邮件活动，关联模板、页面和目标
@@ -61,10 +68,14 @@ SimPhish 是一个专为企业内部安全意识培训设计的钓鱼邮件模�
 - **数据统计**：查看打开率、点击率、提交率等统计信息
 - **时间线**：查看每个目标的完整交互时间线
 - **数据导出**：支持导出为 HTML、PDF 或 Excel 格式
+<img width="2518" height="1506" alt="88bfcb95fe0baf8dd8f5a9758011c2b9" src="https://github.com/user-attachments/assets/284390c2-af08-443d-aa94-aacec689ef0a" />
+<img width="2536" height="1528" alt="31e6619581f61bd2eabec7d46b61413c" src="https://github.com/user-attachments/assets/2724810e-9035-4511-812b-ceb5325f5e9e" />
 
 ### Webhook 集成
 - **事件通知**：支持邮件发送、打开、点击、提交等事件
 - **自定义 URL**：可配置多个 Webhook 接收地址
+<img width="1547" height="891" alt="image" src="https://github.com/user-attachments/assets/1d61adcb-d5da-4ef1-b5ac-e623bba02eb9" />
+
 
 ---
 
