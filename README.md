@@ -1,4 +1,4 @@
-# SimPhish
+# 鱼书（SimPhish）
 
 **企业安全意识培训工具** | Enterprise Security Awareness Tool
 
