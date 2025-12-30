@@ -558,6 +558,7 @@ tar -xzf data-backup-20250101.tar.gz
 
 - **作者**：xiatian
 - **项目**：SimPhish - Enterprise Security Awareness Tool
+- **项目**：可以联系作则参加试用计划
 <img src="https://github.com/user-attachments/assets/255cebc2-f35d-4fdf-ae62-e3b080b0bfa7" width="350" alt="微信二维码">
 
 ---
